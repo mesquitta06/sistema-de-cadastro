@@ -1,4 +1,4 @@
-<h1>Sistema de Gestao de Cadastros de Academia</h1>
+<h1>Sistema de Gestao de Cadastros</h1>
 
 >Sistema desenvolvido apenas para estudo de comandos GIT e Github
 >Curso ALURA
