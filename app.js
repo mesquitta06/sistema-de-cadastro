@@ -12,3 +12,7 @@ function btnClica(){
 function alertaCriado(){
 
 }
+
+function terceiraFuncao(){
+    
+}
