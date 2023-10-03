@@ -16,3 +16,7 @@ function alertaCriado(){
 function terceiraFuncao(){
     
 }
+
+function quartaFuncao(){
+    
+}
